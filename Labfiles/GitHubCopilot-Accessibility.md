@@ -48,7 +48,30 @@ Use the AU site to:
 
    ![](../media/aut16.png)
 
-1. 
-   ![](../media/aut17.png)
+## Task 2: 
+
+1. Start **Visual Studio Code** from the desktop.
+
+    ![](../media/vscode1.jpg)
+
+1. In the Visual Studio Code terminal, click on **(...)** (1) and select the **Terminal** (2) menu, select **New Terminal** (3). The terminal window usually opens in the lower half of your screen.
+
+    ![](../media/terminal.png)
+    
+1. Clone the repository by running the following command:
+
+      ```
+      git clone https://github.com/CloudLabsAI-Azure/AU.git
+      ```
+      
+    ![](../media/clone.png)
+
+1. Once the repository is colne. Click on the **File (1)** from the top and select **Open Folder (2)** option.
+
+    ![](../media/file.png)
+
+1. Navigate to the location 'C:\Users\demouser', select **AU** and click on **Select Folder**
+
+    ![](../media/openfolder.png)
 
 1. 
